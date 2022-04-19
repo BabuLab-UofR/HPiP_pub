@@ -4,4 +4,14 @@ Despite arduous and time-consuming experimental efforts, protein-protein interac
 # This Repository Contains:
 1. [Scripts](https://github.com/mrbakhsh/HPiP_pub/blob/main/R/Scripts_Model1.R) to run case study 1 (using SARS-CoV-1-human host PPIs as a training set)
 2. [Scripts](https://github.com/mrbakhsh/HPiP_pub/blob/main/R/Scripts_Model2.R) to run case study 2 (using SARS-CoV-2-human host PPIs as a training set)
-3. [Scripts]() to run case study 3 (using Mtb-human host PPIs as a training set)
+3. [Scripts](https://github.com/mrbakhsh/HPiP_pub/blob/main/R/Scripts_Model3.R) to run case study 3 (using Mtb-human host PPIs as a training set)
+
+# Sample Data Description:
+## Case study 1:
+- `Trainingset_priotFC.csv` includes Sars-CoV-1-human PPIs
+- `Testset_priotFC.csv` includes Sars-CoV-2-human PPIs
+## Case study 2:
+- `Trainingset_priotFC.csv` includes Sars-CoV-2-human PPIs
+## Case study 3:
+- `Trainingset_priotFC.csv` includes Mtb-human PPIs
+
