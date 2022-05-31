@@ -55,5 +55,7 @@ browseVignettes("HPiP")
 [Penn, Bennett H, *et al.,* 2018](https://pubmed.ncbi.nlm.nih.gov/30118682/), while negative instanses were constructed usig negative sampling. Both sets were mixed to construct labelled training set. This set was further split into a training set (70%) for model training and a test set (30%) for performance assessment of the classifiers.
 
 # Citation 
-Rahmatbakhsh, M., et al. (2022) HPiP: an R/Bioconductor package for predicting host-pathogen protein-protein  interactions from protein sequences using an ensemble machine learning. Manuscript submitted for publication
+Rahmatbakhsh,M. et al. (2022) HPiP: an R/Bioconductor package for predicting host–pathogen protein–protein interactions from protein sequences using ensemble machine learning approach. Bioinforma. Adv., 2, vbac038.
+
+
 
